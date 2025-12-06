@@ -29,7 +29,6 @@ header {
     text-decoration: none;
     color: rgb(236, 244, 255);
     transition: all 0.3s ease;
-    gap:20px;
 }
 
 .header-button:hover {
@@ -39,5 +38,5 @@ header {
 }
 header > div:last-child {
     display:flex;
-    gap:10px;
+    gap:15px;
 }
